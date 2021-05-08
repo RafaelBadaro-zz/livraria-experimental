@@ -1,7 +1,6 @@
 # Livraria
 
-Este é um experimento realizado como parte do Trabalho de Conclusão de Curso 2 conduzido pelos alunos Daniel Vargas (@DanielVargas13) e Rafael Badaró(@RafaelBadaro).
-
+Este é um experimento realizado como parte do Trabalho de Conclusão de Curso 2 conduzido pelos alunos [Daniel Vargas](https://github.com/DanielVargas13) e [Rafael Badaró](https://github.com/RafaelBadaro).
 
 # Experimento
 

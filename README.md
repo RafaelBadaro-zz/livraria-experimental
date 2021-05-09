@@ -9,9 +9,7 @@ O experimento consiste na implementação de um sistema de livraria, onde são g
 ## Requisitos:
 
 * Requisito 1: O sistema deve possibilitar a gerência de livros (cadastro, listagem, atualização e deleção).
-* Requisito 2: O sistema deve possibilitar a ordenação dos livros pelo **ano de publicação**.
-* Requisito 3: O sistema deve possibilitar a busca de livros pelo **título**.
-* Requisito 4: O sistema deve possibilitar a filtragem dos livros através de uma faixa de **preço**.
+* Requisito 2: O sistema deve possibilitar a filtragem dos livros através de uma faixa de **preço**.
 
 ## Especificações para reprodução
 
